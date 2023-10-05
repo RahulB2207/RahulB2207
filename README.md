@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rahul Bhosale</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-
+<img align="right" style="width:'800px'" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e474ind8vxyonot3b8afb1yes0do4r033b25hax1kp6&ep=v1_gifs_search&rid=200.webp&ct=g" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulb2207&label=Profile%20views&color=0e75b6&style=flat" alt="rahulb2207" /> </p>
 
 - 🌱 I’m currently learning **DSA,Backend Development**
