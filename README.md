@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rahul Bhosale</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<img style="align:right; width:400;"  src="[[https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2D5OqTbKa2bNRnpjhrxTDl&ust=1696537236851000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODel9Kb3YEDFQAAAAAdAAAAABAI)](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulb2207&label=Profile%20views&color=0e75b6&style=flat" alt="rahulb2207" /> </p>
 
 - 🌱 I’m currently learning **DSA,Backend Development**
 
-- 👨‍💻 All of my projects are available at [https://rahulbhosale-portfolio.netlify.app/](https://rahulbhosale-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rahulbhosale.netlify.app/](https://rahulbhosale.netlify.app/)
 
 - 💬 Ask me about **React.js,Node.js,C++**
 
@@ -19,7 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/rsbhosale9370" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rsbhosale9370" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rahul bhosale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul bhosale" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/__rahul__963/?next=%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__rahul__963/?next=%2f" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/rahulbhosalec2h5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/rahulbhosalec2h5" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/rahul2207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rahul2207/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
